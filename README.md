@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Lemes</h1>
 <h3 align="center">A curious developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelolemes" alt="marcelolemes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelolemes&theme=onedark" alt="marcelolemes" /></a> </p>
 
 - 🔭 I’m currently working on **Banco do Brasil**
 
